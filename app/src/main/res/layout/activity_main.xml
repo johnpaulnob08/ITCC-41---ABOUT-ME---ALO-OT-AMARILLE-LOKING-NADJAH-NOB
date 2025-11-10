@@ -46,6 +46,35 @@
                 android:textSize="24sp"
                 android:textStyle="bold" />
 
+            <EditText
+                android:id="@+id/aloot_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:ems="10"
+                android:hint="@string/what_is_your_nickname"
+                android:inputType="textPersonName|textImeMultiLine"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/aloot_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:text="@string/done" />
+
+            <TextView
+                android:id="@+id/aloot_nickname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textAlignment="center" />
+
             <TextView
                 android:id="@+id/title1"
                 android:layout_width="wrap_content"
@@ -124,6 +153,20 @@
                 android:text="@string/amarille_name"
                 android:textSize="24sp"
                 android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/amarille_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:ems="10"
+                android:hint="@string/what_is_your_nickname"
+                android:inputType="textPersonName|textImeMultiLine"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:textAlignment="center"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/title2"
@@ -204,6 +247,20 @@
                 android:textSize="24sp"
                 android:textStyle="bold" />
 
+            <EditText
+                android:id="@+id/nadjah_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:ems="10"
+                android:hint="@string/what_is_your_nickname"
+                android:inputType="textPersonName|textImeMultiLine"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
             <TextView
                 android:id="@+id/title3"
                 android:layout_width="wrap_content"
@@ -283,6 +340,20 @@
                 android:textSize="24sp"
                 android:textStyle="bold" />
 
+            <EditText
+                android:id="@+id/loking_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:ems="10"
+                android:hint="@string/what_is_your_nickname"
+                android:inputType="textPersonName|textImeMultiLine"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
             <TextView
                 android:id="@+id/title4"
                 android:layout_width="wrap_content"
@@ -361,6 +432,20 @@
                 android:text="@string/Nob_name"
                 android:textSize="24sp"
                 android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/nob_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/buttomMargin"
+                android:layout_marginRight="@dimen/buttomMargin"
+                android:ems="10"
+                android:hint="@string/what_is_your_nickname"
+                android:inputType="textPersonName|textImeMultiLine"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:textAlignment="center"
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/title5"
