@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="aloot_bio">I am Karla Mae G. Alo-ot, a 20 years old who loves editing videos and designing UI/UX. I am passionate about creating user centered designs that combine functionality and aesthetics.</string>
+    <string name="pfp">Profile Photo</string>
+    <string name="about_us">About Us</string>
+    <string name="aloot_name">Karla Mae G. Alo-ot</string>
+    <string name="profession">UI/UX Designer | Creative Thinker</string>
+    <string name="aloot_gmail">karlamae2005@gmail.com</string>
+    <string name="amarille_name">Christine Marie B. Amarille</string>
+    <string name="amarille_prof">Mobile Developer / IT</string>
+    <string name="amarille_bio">Hola! Me llamo Christine Marie B. Amarille. Tengo 20 anos. I am a curious and thoughtful person who loves learning about different topics, from technology and programming to ethics.</string>
+    <string name="amarille_email">20170012260@my.xu.edu.ph</string>
+    <string name="nadjah_name">Nadjah Dimaporo</string>
+    <string name="nadjah_prof">Information Technology</string>
+    <string name="nadjah_bio">Aspiring IT professional with a passion for innovation and problem-solving through technology.</string>
+    <string name="nadjah_email">20230029057@my.xu.edu.ph</string>
+    <string name="loking_name">Gail Leanne Loking</string>
+    <string name="gail_prof">Backend Developer / IT</string>
+    <string name="loking_bio">Dedicated backend developer skilled in database management and application logic design.</string>
+    <string name="gail_email">20230028304@my.xu.edu.ph</string>
+    <string name="Nob_name">John Paul Nob</string>
+    <string name="Nob_prof">Information Technology</string>
+    <string name="Nob_bio">I am Pau, a 3rd year IT student and passionate about developing innovative solutions and exploring new technologies. Also, an active leader that leads with passion and commitment to fostering a better community I lead.</string>
+    <string name="Nob_email">20230028975@my.xu.edu.ph</string>
+</resources>
